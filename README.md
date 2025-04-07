@@ -20,7 +20,7 @@ Aucune librairie externe, aucun framework – juste du **JavaScript pur**, du **
 
 <br>
 
-<img src="img/20shots_so.png" alt="aperçu du chat" width="600"/>
+<img src="./img/20shots_so.png" alt="aperçu du chat" width="600"/>
 <img src="img/530_1x_shots_so.png" alt="aperçu du chat" width="600"/>
 
 </div>
